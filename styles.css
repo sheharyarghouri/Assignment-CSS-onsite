@@ -1,0 +1,53 @@
+div.bg1 {
+    background-image: url(https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/7ce49450bf4053c8bb7f3a48/ggg.jpg);
+    width: 1366px;
+    height: 600px;
+    background-size: cover;
+    display: inline-block;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+}
+
+div.bg2 {
+    background-color: #f4e4ef;
+    width: 800px;
+    height: 400px;
+    /* margin: auto; */
+    /* margin-top: 3%; */
+    border-radius: 5% 5% 5% 5%;
+    position: relative;
+    top: 10%;
+    left: 25%;
+}
+
+
+div.bg3 {
+    background-color: #ffffff;
+    width: 650px;
+    height: 400px;
+    position: relative;
+    top: 20%;
+    left: 9%;
+    right: 9%;
+    border-radius: 5% 5% 5% 5%;
+}
+
+
+div.content {
+    text-align: center;
+    position: relative;
+    top: 15%;
+    font-family: sans-serif;
+}
+
+.content p {
+    font-size: large;
+    font-weight: lighter;
+}
+
+.content h1 {
+    font-size: 80px;
+    color: #e72c66;
+    margin-top: 1%;
+}
